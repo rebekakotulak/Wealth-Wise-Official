@@ -1,6 +1,5 @@
 # Wealth Wise — Your Own Financial Analyst
-
-https://radkakotulak.github.io/Wealth-Wise-Official/  
+(https://rebekakotulak.github.io/Wealth-Wise-Official/)
 
 ---
 
